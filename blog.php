@@ -28,8 +28,8 @@
 			<nav class="navbar navbar-expand-lg navbar-light">
 				<div class="container">
 					<!-- Brand and toggle get grouped for better mobile display -->
-          <a class="navbar-brand logo_h" href="index.html"><img src="img/logo.png" alt=""></a>
-					<a class="navbar-brand logo_inner_page" href="index.html"><img src="img/logo2.png" alt=""></a>
+          <a class="navbar-brand logo_h" href="index.php"><img src="img/logo.png" alt=""></a>
+					<a class="navbar-brand logo_inner_page" href="index.php"><img src="img/logo2.png" alt=""></a>
 					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
 					 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="icon-bar"></span>
@@ -39,26 +39,26 @@
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
 						<ul class="nav navbar-nav menu_nav">
-							<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-							<li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
-							<li class="nav-item"><a class="nav-link" href="portfolio.html">Portfolio</a></li>
+							<li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+							<li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
+							<li class="nav-item"><a class="nav-link" href="portfolio.php">Portfolio</a></li>
 							<li class="nav-item submenu dropdown">
 								<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
 								 aria-expanded="false">Pages</a>
 								<ul class="dropdown-menu">
-									<li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
-									<li class="nav-item"><a class="nav-link" href="portfolio-details.html">Portfolio Details</a></li>
+									<li class="nav-item"><a class="nav-link" href="services.php">Services</a></li>
+									<li class="nav-item"><a class="nav-link" href="portfolio-details.php">Portfolio Details</a></li>
 								</ul>
 							</li>
 							<li class="nav-item active submenu dropdown">
 								<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
 								 aria-expanded="false">Blog</a>
 								<ul class="dropdown-menu">
-									<li class="nav-item"><a class="nav-link" href="blog.html">Blog</a></li>
-									<li class="nav-item"><a class="nav-link" href="single-blog.html">Blog Details</a></li>
+									<li class="nav-item"><a class="nav-link" href="blog.php">Blog</a></li>
+									<li class="nav-item"><a class="nav-link" href="single-blog.php">Blog Details</a></li>
 								</ul>
 							</li>
-							<li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+							<li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
 						</ul>
 					</div>
 				</div>
@@ -75,8 +75,8 @@
               <div class="banner_content text-center">
                   <h2>Our Blog</h2>
                   <div class="page_link">
-                      <a href="index.html">Home</a>
-                      <a href="blog.html">Blog</a>
+                      <a href="index.php">Home</a>
+                      <a href="blog.php">Blog</a>
                   </div>
               </div>
           </div>
@@ -100,7 +100,7 @@
                         </div>
 
                         <div class="blog_details">
-                            <a class="d-inline-block" href="single-blog.html">
+                            <a class="d-inline-block" href="single-blog.php">
                                 <h2>Google inks pact for new 35-storey office</h2>
                             </a>
                             <p>That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying.</p>
@@ -121,7 +121,7 @@
                         </div>
 
                         <div class="blog_details">
-                            <a class="d-inline-block" href="single-blog.html">
+                            <a class="d-inline-block" href="single-blog.php">
                                 <h2>Google inks pact for new 35-storey office</h2>
                             </a>
                             <p>That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying.</p>
@@ -142,7 +142,7 @@
                         </div>
 
                         <div class="blog_details">
-                            <a class="d-inline-block" href="single-blog.html">
+                            <a class="d-inline-block" href="single-blog.php">
                                 <h2>Google inks pact for new 35-storey office</h2>
                             </a>
                             <p>That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying.</p>
@@ -163,7 +163,7 @@
                         </div>
 
                         <div class="blog_details">
-                            <a class="d-inline-block" href="single-blog.html">
+                            <a class="d-inline-block" href="single-blog.php">
                                 <h2>Google inks pact for new 35-storey office</h2>
                             </a>
                             <p>That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying.</p>
@@ -184,7 +184,7 @@
                         </div>
 
                         <div class="blog_details">
-                            <a class="d-inline-block" href="single-blog.html">
+                            <a class="d-inline-block" href="single-blog.php">
                                 <h2>Google inks pact for new 35-storey office</h2>
                             </a>
                             <p>That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying.</p>
@@ -286,7 +286,7 @@
                           <div class="media post_item">
                               <img src="img/blog/popular-post/post1.jpg" alt="post">
                               <div class="media-body">
-                                  <a href="single-blog.html">
+                                  <a href="single-blog.php">
                                       <h3>From life was you fish...</h3>
                                   </a>
                                   <p>January 12, 2019</p>
@@ -295,7 +295,7 @@
                           <div class="media post_item">
                               <img src="img/blog/popular-post/post2.jpg" alt="post">
                               <div class="media-body">
-                                  <a href="single-blog.html">
+                                  <a href="single-blog.php">
                                       <h3>The Amazing Hubble</h3>
                                   </a>
                                   <p>02 Hours ago</p>
@@ -304,7 +304,7 @@
                           <div class="media post_item">
                               <img src="img/blog/popular-post/post3.jpg" alt="post">
                               <div class="media-body">
-                                  <a href="single-blog.html">
+                                  <a href="single-blog.php">
                                       <h3>Astronomy Or Astrology</h3>
                                   </a>
                                   <p>03 Hours ago</p>
@@ -313,7 +313,7 @@
                           <div class="media post_item">
                               <img src="img/blog/popular-post/post4.jpg" alt="post">
                               <div class="media-body">
-                                  <a href="single-blog.html">
+                                  <a href="single-blog.php">
                                       <h3>Asteroids telescope</h3>
                                   </a>
                                   <p>01 Hours ago</p>
@@ -420,11 +420,11 @@
 								<nav class="navbar navbar-expand-lg navbar-light justify-content-center">
 									<div class="collapse navbar-collapse offset">
 										<ul class="nav navbar-nav menu_nav mx-auto">
-											<li class="nav-item"><a class="nav-link text-white" href="index.html">Home</a></li>
-											<li class="nav-item"><a class="nav-link text-white" href="about.html">About</a></li>
-											<li class="nav-item"><a class="nav-link text-white" href="portfolio.html">Portfolio</a></li>
-											<li class="nav-item"><a class="nav-link text-white" href="blog.html">BLog</a></li>
-											<li class="nav-item"><a class="nav-link text-white" href="services.html">Services </a></li>
+											<li class="nav-item"><a class="nav-link text-white" href="index.php">Home</a></li>
+											<li class="nav-item"><a class="nav-link text-white" href="about.php">About</a></li>
+											<li class="nav-item"><a class="nav-link text-white" href="portfolio.php">Portfolio</a></li>
+											<li class="nav-item"><a class="nav-link text-white" href="blog.php">BLog</a></li>
+											<li class="nav-item"><a class="nav-link text-white" href="services.php">Services </a></li>
 										</ul>
 									</div>
 								</nav>

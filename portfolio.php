@@ -28,8 +28,8 @@
 			<nav class="navbar navbar-expand-lg navbar-light">
 				<div class="container">
 					<!-- Brand and toggle get grouped for better mobile display -->
-          <a class="navbar-brand logo_h" href="index.html"><img src="img/logo.png" alt=""></a>
-					<a class="navbar-brand logo_inner_page" href="index.html"><img src="img/logo2.png" alt=""></a>
+          <a class="navbar-brand logo_h" href="index.php"><img src="img/logo.png" alt=""></a>
+					<a class="navbar-brand logo_inner_page" href="index.php"><img src="img/logo2.png" alt=""></a>
 					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
 					 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="icon-bar"></span>
@@ -39,26 +39,26 @@
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
 						<ul class="nav navbar-nav menu_nav">
-							<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-							<li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
-							<li class="nav-item active"><a class="nav-link" href="portfolio.html">Portfolio</a></li>
+							<li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+							<li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
+							<li class="nav-item active"><a class="nav-link" href="portfolio.php">Portfolio</a></li>
 							<li class="nav-item submenu dropdown">
 								<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
 								 aria-expanded="false">Pages</a>
 								<ul class="dropdown-menu">
-									<li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
-									<li class="nav-item"><a class="nav-link" href="portfolio-details.html">Portfolio Details</a></li>
+									<li class="nav-item"><a class="nav-link" href="services.php">Services</a></li>
+									<li class="nav-item"><a class="nav-link" href="portfolio-details.php">Portfolio Details</a></li>
 								</ul>
 							</li>
 							<li class="nav-item submenu dropdown">
 								<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
 								 aria-expanded="false">Blog</a>
 								<ul class="dropdown-menu">
-									<li class="nav-item"><a class="nav-link" href="blog.html">Blog</a></li>
-									<li class="nav-item"><a class="nav-link" href="single-blog.html">Blog Details</a></li>
+									<li class="nav-item"><a class="nav-link" href="blog.php">Blog</a></li>
+									<li class="nav-item"><a class="nav-link" href="single-blog.php">Blog Details</a></li>
 								</ul>
 							</li>
-							<li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+							<li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
 						</ul>
 					</div>
 				</div>
@@ -74,8 +74,8 @@
               <div class="banner_content text-center">
                   <h2>Portfolio</h2>
                   <div class="page_link">
-                      <a href="index.html">Home</a>
-                      <a href="portfolio.html">Portfolio</a>
+                      <a href="index.php">Home</a>
+                      <a href="portfolio.php">Portfolio</a>
                   </div>
               </div>
           </div>
@@ -105,7 +105,7 @@
 						</div>
 						<div class="short_details">
 
-							<a class="d-block" href="single-blog.html">
+							<a class="d-block" href="single-blog.php">
 								<h4>Social Media - Ruby On Rails </h4>
 							</a>
 							<div class="text-wrap">
@@ -124,7 +124,7 @@
 						</div>
 						<div class="short_details">
 
-							<a class="d-block" href="single-blog.html">
+							<a class="d-block" href="single-blog.php">
 								<h4>List Project - Ruby On Rails</h4>
 							</a>
 							<div class="text-wrap">
@@ -143,7 +143,7 @@
 						</div>
 						<div class="short_details">
 
-							<a class="d-block" href="single-blog.html">
+							<a class="d-block" href="single-blog.php">
 								<h4>Implementation Method SMART - PHP</h4>
 							</a>
 							<div class="text-wrap">
@@ -192,7 +192,7 @@
 							<img class="img-fluid w-100" src="img/portfolio/p1.jpg" alt="">
 							<div class="overlay"></div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Lens Mockup Design</a></h4>
+								<h4><a href="portfolio-details.php">Lens Mockup Design</a></h4>
 								<p>Art, Illustration</p>
 							</div>
 						</div>
@@ -203,7 +203,7 @@
 							<img class="img-fluid w-100" src="img/portfolio/p4.jpg" alt="">
 							<div class="overlay"></div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Lens Mockup Design</a></h4>
+								<h4><a href="portfolio-details.php">Lens Mockup Design</a></h4>
 								<p>Art, Illustration</p>
 							</div>
 						</div>
@@ -214,7 +214,7 @@
 							<img class="img-fluid w-100" src="img/portfolio/p2.jpg" alt="">
 							<div class="overlay"></div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Lens Mockup Design</a></h4>
+								<h4><a href="portfolio-details.php">Lens Mockup Design</a></h4>
 								<p>Art, Illustration</p>
 							</div>
 						</div>
@@ -225,7 +225,7 @@
 							<img class="img-fluid w-100" src="img/portfolio/p3.jpg" alt="">
 							<div class="overlay"></div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Lens Mockup Design</a></h4>
+								<h4><a href="portfolio-details.php">Lens Mockup Design</a></h4>
 								<p>Art, Illustration</p>
 							</div>
 						</div>
@@ -236,7 +236,7 @@
 							<img class="img-fluid w-100" src="img/portfolio/p6.jpg" alt="">
 							<div class="overlay"></div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Lens Mockup Design</a></h4>
+								<h4><a href="portfolio-details.php">Lens Mockup Design</a></h4>
 								<p>Art, Illustration</p>
 							</div>
 						</div>
@@ -247,7 +247,7 @@
 							<img class="img-fluid w-100" src="img/portfolio/p5.jpg" alt="">
 							<div class="overlay"></div>
 							<div class="short_info">
-								<h4><a href="portfolio-details.html">Lens Mockup Design</a></h4>
+								<h4><a href="portfolio-details.php">Lens Mockup Design</a></h4>
 								<p>Art, Illustration</p>
 							</div>
 						</div>
@@ -325,11 +325,11 @@
 								<nav class="navbar navbar-expand-lg navbar-light justify-content-center">
 									<div class="collapse navbar-collapse offset">
 										<ul class="nav navbar-nav menu_nav mx-auto">
-											<li class="nav-item"><a class="nav-link text-white" href="index.html">Home</a></li>
-											<li class="nav-item"><a class="nav-link text-white" href="about.html">About</a></li>
-											<li class="nav-item"><a class="nav-link text-white" href="portfolio.html">Portfolio</a></li>
-											<li class="nav-item"><a class="nav-link text-white" href="blog.html">BLog</a></li>
-											<li class="nav-item"><a class="nav-link text-white" href="services.html">Services </a></li>
+											<li class="nav-item"><a class="nav-link text-white" href="index.php">Home</a></li>
+											<li class="nav-item"><a class="nav-link text-white" href="about.php">About</a></li>
+											<li class="nav-item"><a class="nav-link text-white" href="portfolio.php">Portfolio</a></li>
+											<li class="nav-item"><a class="nav-link text-white" href="blog.php">BLog</a></li>
+											<li class="nav-item"><a class="nav-link text-white" href="services.php">Services </a></li>
 										</ul>
 									</div>
 								</nav>
